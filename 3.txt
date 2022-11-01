@@ -1,0 +1,6 @@
+git tags:
+git tag - to see the tags list
+git tag v1.0 - create new tag    - light weight tag
+git tag -a v1.0 -m "created new tag"
+git show v1.0
+
